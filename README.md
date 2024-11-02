@@ -1,2 +1,2 @@
 # Credit_Fraud_Analysis
-A U.S.-based credit lender has provided us with CSV files containing historical and customer data. Our task is to analyze this data to uncover insights, helping the bank better understand customer credit scores and detect potential credit fraud.
+One of our clients, a credit lender in the USA, has shared some CSV files containing historical data as well as customer information with us. Our team is required to work on this data to extract some meaning full insights from the shared data so that the bank can understand further about the credit scores of their customers as well as the credit fraud being committed.
